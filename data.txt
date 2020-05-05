@@ -1,0 +1,9 @@
+FlightNumber : 123		From : Minia		To : Cairo
+
+Passengers data:
+
+PassengerName     SeatNumber        BaggageId         BaggageWeight     Type              Reward Or Category 
+abdo              123               23                51.250000         business          280
+mohamed           174               13                22.500000         economy           C
+ahmed             177               15                12.500000         business          950
+ali               355               13                10.500000         economy           B
